@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio</strong>
+  💼 Ferramentas: <strong>Visual Studio, </strong>
   <strong>Github</strong>
 </p>
 
