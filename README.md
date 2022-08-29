@@ -6,13 +6,13 @@ Sempre buscando aprofundar mais os meu conhecimentos via cursos e palestras on-l
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>* C#</strong>
-                 <strong>* Blazor</strong>
-                 <strong>* SQL Server</strong>
-                 <strong>* MongoDB</strong>
-                 <strong>* HTML</strong>
-                 <strong>* CSS</strong>
-                 <strong>* JavaScript</strong>
+  🦄 Linguagens: <strong>C#</strong>
+                 <strong>Blazor</strong>
+                 <strong>SQL Server</strong>
+                 <strong>MongoDB</strong>
+                 <strong>HTML</strong>
+                 <strong>CSS</strong>
+                 <strong>JavaScript</strong>
                  <strong>ASP.NET CORE</strong>
                  <strong>ASP.NET MVC</strong>
 </p>
