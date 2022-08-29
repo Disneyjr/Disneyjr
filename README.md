@@ -1,13 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá Eu sou o Disney mais um apaixonado em utilizar a tecnologia como meio de transformar sonhos em realidade.
+ Inicei como estágiario de Desenvolvimento na Unimed e hoje sou um desenvolvedor web com conhecimentos solidos na plataforma .NET, DDD, SOLID, POO, TDD.
+Sempre buscando aprofundar mais os meu conhecimentos via cursos e palestras on-line.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#.</strong>
-                  <strong>ASP.NET CORE</strong>
-                  <strong>ASP.NET MVC</strong>
+  🦄 Linguagens: <strong>* C#</strong>
+                 <strong>* Blazor</strong>
+                 <strong>* SQL Server</strong>
+                 <strong>* MongoDB</strong>
+                 <strong>* HTML</strong>
+                 <strong>* CSS</strong>
+                 <strong>* JavaScript</strong>
+                 <strong>ASP.NET CORE</strong>
+                 <strong>ASP.NET MVC</strong>
 </p>
 
 <p align="left">
